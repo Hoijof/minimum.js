@@ -6,5 +6,10 @@ This library helps you find your way out of ALL the situations that only a good 
 
 It's still under alfa so if you have any bug report to the creator.
 
+#Usage
+  minimum(options);
+  
+  options.mode can be 'silent' or 'verbose'
+
 
 mail: hoijof@gmail.com
