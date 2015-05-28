@@ -10,6 +10,13 @@ It's still under alfa so if you have any bug report to the creator.
   minimum(options);
   
   options.mode can be 'silent' or 'verbose'
+  
+  Example: 
+  ```
+  minimum({mode: 'silent'});
+  ```
+  
+  And that's it! Minimum will do the rest of the work for you!
 
 
 mail: hoijof@gmail.com
