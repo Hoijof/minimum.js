@@ -1,6 +1,6 @@
 function minimum(options) {
  
-   // About object is returned if there is no 'id' parameter
+   // About object is returned if there is no 'options' parameter
    var about = {
       Version: 0.1,
       Author: "Humberto Gomez",
@@ -9,9 +9,6 @@ function minimum(options) {
    };
  
    if (options) {
- 
-      // Avoid clobbering the window scope:
-      // return a new minimum object if we're in the wrong scope
       if (options.mode === 'silent') {
       	console.log("Hire a good FrontEnd Developer.");
       } else {
