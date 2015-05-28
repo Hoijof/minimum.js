@@ -1,1 +1,1 @@
-alert("Hire a FrontEnd Developer.");
+alert("Hire a good FrontEnd Developer.");
