@@ -18,5 +18,8 @@ It's still under alpha, so if you find a bug then report it to the creator.
   
   And that's it! Minimum will do the rest of the work for you!
 
+#Special thanks
+- @dwayne
+- @mjaniszew
 
 mail: hoijof@gmail.com
