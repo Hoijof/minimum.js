@@ -21,5 +21,6 @@ It's still under alpha, so if you find a bug then report it to the creator.
 #Special thanks
 - @dwayne
 - @mjaniszew
+- @Krakers
 
 mail: hoijof@gmail.com
