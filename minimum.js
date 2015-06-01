@@ -10,9 +10,9 @@ function minimum(options) {
  
    if (options) {
       if (options.mode === 'silent') {
-      	console.log("Hire a good FrontEnd Developer.");
+      	console.log("Hire a good front-end developer.");
       } else {
-      	alert("Hire a good FrontEnd Developer.");
+      	alert("Hire a good front-end developer.");
       }
 
       return this;
