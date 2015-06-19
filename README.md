@@ -1,3 +1,5 @@
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/Hoijof/minimum.js/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
 # Minimum JS
 
 Are you developing a large project and you're lacking a good front-end developer? Then Minimum JS is the answer to all your prayers! 
@@ -26,5 +28,4 @@ It's still under alpha, so if you find a bug then report it to the creator.
 mail: hoijof@gmail.com
 
 
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/Hoijof/minimum.js/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
