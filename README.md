@@ -24,3 +24,7 @@ It's still under alpha, so if you find a bug then report it to the creator.
 - @Krakers
 
 mail: hoijof@gmail.com
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/Hoijof/minimum.js/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
