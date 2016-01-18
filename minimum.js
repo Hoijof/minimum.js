@@ -2,10 +2,10 @@ function minimum(options) {
  
    // About object is returned if there is no 'options' parameter
    var about = {
-      Version: 0.1,
+      Version: '1.0.0',
       Author: "Humberto Gomez",
       Created: "2015",
-      Updated: "20150528"
+      Updated: "20160118"
    };
  
    if (options) {
@@ -19,4 +19,4 @@ function minimum(options) {
    } else {
       return about;
    }
-};
+}
