@@ -1,0 +1,22 @@
+{
+  "name": "Minimum.js",
+  "version": "1.0.0",
+  "authors": [
+    "Humberto Gómez López <hoijof@gmail.com"
+  ],
+  "description": "The perfect substitute for a FrontEnd Developer",
+  "main": "minimum.js",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "humbertogomezlopez.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+  },
+  "resolutions": {
+  }
+}
